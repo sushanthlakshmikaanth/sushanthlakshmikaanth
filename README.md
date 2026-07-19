@@ -240,9 +240,9 @@ I offer expertise in:
 <div align="center">
 
 [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sushanthlakshmikaanthk@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio%20Website-9D4EDD?style=for-the-badge&logo=Globe&logoColor=white)]([https://agency.loopzen.in/](https://sushanthakshmikaanth.vercel.app/))
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio%20Website-9D4EDD?style=for-the-badge&logo=Globe&logoColor=white)](https://sushanthakshmikaanth.vercel.app/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub%20Profile-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sushanthlakshmikaanth)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://linkedin.com/in/sushanthlakshmikaanth](https://www.linkedin.com/in/sushanth-lakshmikaanth-443043318/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sushanth-lakshmikaanth-443043318/)
 
 </div>
 
