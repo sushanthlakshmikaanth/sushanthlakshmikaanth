@@ -1,25 +1,8 @@
-# 
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║          ☁️  CLOUD & AI ENGINEER  |  SYSTEM ARCHITECT  🤖                ║
-║                                                                            ║
-║              Building Intelligent Cloud Solutions at Scale                ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&width=900&height=50&lines=☁️+Cloud+Architect+|+🤖+AI+Engineer+|+System+Designer;LLMs+•+Generative+AI+•+RAG+•+Agentic+Systems;AWS+•+Kubernetes+•+Microservices+•+Distributed+Systems)](https://github.com/sushanthlakshmikaanth)
-
-### *Transforming Complex Problems into Scalable, Intelligent Solutions*
+# <div align="center"> ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&width=900&lines=☁️+Cloud+Engineer;🤖+AI+Architect;System+Designer;Building+Intelligent+Solutions+at+Scale) </div>
 
 ---
 
-</div>
-
-## 👨‍💼 Professional Summary
+## 👨‍💼 Professional Profile
 
 I am a **Cloud & AI Engineer** with deep expertise in architecting enterprise-scale systems that leverage artificial intelligence and cloud infrastructure. I specialize in building production-ready AI applications, designing cloud-native architectures, and solving complex system design challenges.
 
@@ -68,67 +51,34 @@ I am a **Cloud & AI Engineer** with deep expertise in architecting enterprise-sc
 
 ---
 
-## 🛠️ Technical Arsenal
+## 💻 Technology Stack
 
 ### 🤖 AI & Machine Learning
-```
-┌─────────────────────────────────────┐
-│  LLMs & Frameworks                  │
-├─────────────────────────────────────┤
-│ • OpenAI GPT-4, Claude              │
-│ • LangChain & LlamaIndex            │
-│ • Vector Databases (Pinecone, Weaviate) │
-│ • Prompt Engineering & Optimization │
-│ • Multi-agent Systems               │
-│ • Fine-tuning & Adaptation          │
-└─────────────────────────────────────┘
-```
-
-### ☁️ Cloud Platforms & Tools
-```
-┌──────────────────────────────────────┐
-│  AWS & Infrastructure                │
-├──────────────────────────────────────┤
-│ • Compute: EC2, Lambda, Fargate      │
-│ • Storage: S3, EBS, EFS              │
-│ • Databases: RDS, DynamoDB, Aurora   │
-│ • Networking: VPC, CloudFront, ALB   │
-│ • DevOps: CloudFormation, Systems Mgr│
-│ • Monitoring: CloudWatch, X-Ray      │
-└──────────────────────────────────────┘
-```
-
-### 🐳 Container & Orchestration
-```
-┌──────────────────────────────────────┐
-│  Docker & Kubernetes Expertise       │
-├──────────────────────────────────────┤
-│ • Container Image Optimization       │
-│ • Multi-stage Docker builds          │
-│ • Kubernetes Cluster Management      │
-│ • Helm Charts & Package Management   │
-│ • Service Mesh (Istio)               │
-│ • Auto-scaling & Load Balancing      │
-└──────────────────────────────────────┘
-```
-
-### 🚀 Programming Languages & Frameworks
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-FF6B6B?style=for-the-badge)
+
+### 🎨 Frontend & UI
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
-### 📦 Essential Tools & Services
-
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+
+### 📦 Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=Supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -315,17 +265,6 @@ I offer expertise in:
 ---
 
 <div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║                    ⭐ THANK YOU FOR VISITING ⭐                          ║
-║                                                                            ║
-║           Let's build something amazing together! Feel free to             ║
-║            explore my repositories and reach out for collaboration.        ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
 
 ### 🌟 Star My Repositories If You Find Them Interesting!
 
